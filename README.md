@@ -1,4 +1,4 @@
-# 🛡️ Fenrir Security Dashboard
+# Fenrir Security Dashboard
 
 A modern, responsive security scan management dashboard built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
